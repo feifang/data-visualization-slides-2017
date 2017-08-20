@@ -18,12 +18,12 @@
 ### 可视化的简史及作用
 
 +++
-#### CASE 1: The French Invasion of Russia (1812)
+#### CASE 1: The French Invasion of Russia in 1812
 <span style="color: gray; font-size: 0.5em;">*The classic graphic by Charles Joseph Minard (1781-1870)*</span>
 ![Napoleon's March by Charles Joseph Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
 
 +++
-#### CASE 2: Diagram of the Causes of Mortality (1858)
+#### CASE 2: The Causes of Mortality in 1858
 <span style="color: gray; font-size: 0.5em;">*The graphic that saved lives by Florence Nightingale (1820-1910)*</span>
 ![](http://www.florence-nightingale-avenging-angel.co.uk/blog/wp-content/uploads/2012/01/Rose.jpg)
 
@@ -66,7 +66,6 @@
 
 +++?image=http://www.infographicsblog.com/wp-content/uploads/2011/11/chart-suggestion-infographic.jpg&size=auto 100%
 
-<span style="color: gray; font-size: 0.4em;">*Chart Suggestions: A Thought Starter (Andrew Abela): http://www.infographicsblog.com/wp-content/uploads/2011/11/chart-suggestion-infographic.jpg*</span>
 
 +++
 ### 如何选择可视化工具？
