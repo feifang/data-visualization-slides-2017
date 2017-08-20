@@ -69,17 +69,16 @@
 
 --- 
 ### 大数据 x 可视化
-- 学术案例：<span style="color:#ef8526">SwiftTuna</span> Responsive and Incremental Visual Exploration of Large-scale Multidimensional Data
+- 学术案例：<span style="color:#ef8526">SwiftTuna</span> - Responsive and Incremental Visual Exploration of Large-scale Multidimensional Data
 - 商业案例：
 
 
-+++
++++?image=http://hcil.snu.ac.kr/system/researches/representative_images/37/retina/f811ad74c93c19adf1e9919be042726978c001bf.png&size=auto 75%
 ### <span style="color:#ef8526">SwiftTuna</span>
-##### -- Responsive and Incremental Visual Exploration of Large-scale Multidimensional Data
+<span style="color:gray; font-size:0.7em">Responsive and Incremental Visual Exploration of <b>Large-scale Multidimensional Data</b></span>
+![Interface of SwiftTuna]()
 
-![Interface of SwiftTuna](http://hcil.snu.ac.kr/system/researches/representative_images/37/retina/f811ad74c93c19adf1e9919be042726978c001bf.png)
-
-<span style="color:gray">*Jaemin Jo, Wonjae Kim, Seunghoon Yoo, Bohyoung Kim, and Jinwook Seo, Human-Computer Interaction Laboratory, Seoul National University and Hankuk University of Foreign Studies*</span>
+<span style="color: gray; font-size: 0.5em; position: absolute; bottom: 0">*Jaemin Jo, Wonjae Kim, Seunghoon Yoo, Bohyoung Kim, and Jinwook Seo, Human-Computer Interaction Laboratory, Seoul National University and Hankuk University of Foreign Studies*</span>
 
 +++
 #### 亮点1：增量式计算与快速响应的可视化
