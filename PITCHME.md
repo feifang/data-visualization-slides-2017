@@ -167,7 +167,7 @@
 ### BONUS！
 
 +++
-### Storytelling：新“口红效应”
+### Storytelling：[新“口红效应”](https://feifang.github.io/New-Lipstick-Effect/)
 ![](http://image.dydata.io/519SPTzwKEvA2Qy2n5cCVi.gif)
 
 +++
