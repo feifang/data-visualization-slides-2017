@@ -33,33 +33,31 @@
 <span style="color: gray; font-size: 0.5em;">*The graphic that saved lives by Florence Nightingale (1820-1910)*</span>
 ![](http://www.florence-nightingale-avenging-angel.co.uk/blog/wp-content/uploads/2012/01/Rose.jpg)
 
++++?image=http://www.florence-nightingale-avenging-angel.co.uk/blog/wp-content/uploads/2012/01/Column4.jpg&size=auto 95%
+
 +++ 
 ### 可视化发展历程
-<span style="font-size: 0.5em; text-align:left;">
-17世纪前： 图表萌芽 - 地图<br>
-1600-1699年：物理测量 - 第一幅天气图，small multiple<br>
-<b>1700-1799年：图形符号</b> - 等高线图、折线图、柱状图<br>
-<b>1800-1900年：数据图形</b> - 开始较多应用于社会、地理、医学和经济领域<br>
-1900-1949年：现代启蒙 - 缺乏创新，但开始面向政府、商业和科学走向应用普及<br>
-<b>1950-1974年：多维信息的可视编码</b> - 图形符号和表示理论的提出，如”视觉通道“和多维数据编码<br>
-1975-1987年：多维统计图形 - Edward Tufte 等人的理论逐渐推动信息可视化发展为一门学科<br>
-<b>1987-2004年：交互可视化</b> - TableLens 等交互手段、树图的发明；可视化学术会议的出现<br>
-2004年至今：可视分析学 - 应对海量、高维、多源和动态数据的分析挑战，辅助用户从中快速挖掘有用的信息，以便做出有效决策的新兴学科。</span>
+- <span style="font-size: 0.5em;">17世纪前： 图表萌芽 - 地图<br></span>
+- <span style="font-size: 0.5em;">1600-1699年：物理测量 - 第一幅天气图，small multiple<br></span>
+- <span style="font-size: 0.5em;"><b>1700-1799年：图形符号</b> - 等高线图、折线图、柱状图<br></span>
+- <span style="font-size: 0.5em;"><b>1800-1900年：数据图形</b> - 开始较多应用于社会、地理、医学和经济领域<br></span>
+- <span style="font-size: 0.5em;">1900-1949年：现代启蒙 - 缺乏创新，但开始面向政府、商业和科学走向应用普及<br></span>
+- <span style="font-size: 0.5em;"><b>1950-1974年：多维信息的可视编码</b> - 图形符号和表示理论的提出，如”视觉通道“和多维数据编码<br></span>
+- <span style="font-size: 0.5em;">1975-1987年：多维统计图形 - Edward Tufte 等人的理论逐渐推动信息可视化发展为一门学科<br></span>
+- <span style="font-size: 0.5em;"><b>1987-2004年：交互可视化</b> - TableLens 等交互手段、树图的发明；可视化学术会议的出现<br></span>
+- <span style="font-size: 0.5em;">2004年至今：可视分析学 - 应对海量、高维、多源和动态数据的分析挑战，辅助用户从中快速挖掘有用的信息，以便做出有效决策的新兴学科。</span></span>
 
 <span style="color: gray; font-size: 0.4em;">*引用自：《数据可视化》，陈为*</span>
 
 +++ 
 ### 可视化的主要作用
 
-- Explore
-- Explain
+#### <span style="color: gray;"> Explore 分析数据 </span>
+#### <span style="color: gray;"> Explain 传达数据 </span>
 
 ---
 ## WHAT
 ### 什么是（**好的**）可视化？
-
-+++
-> Data Visualization is ...
 
 +++
 ### 好的可视化需要遵循哪些标准？
@@ -145,16 +143,15 @@
 
 +++
 ### Storytelling：新“口红效应”
+![](http://image.dydata.io/519SPTzwKEvA2Qy2n5cCVi.gif)
 
-+++ 
-### LEARN MORE
-- BOOK 1
-
-- BOOK 2 
 +++
-### HOW TO KEEP UPDATED
-- BLOG 1
-- BLOG 2
+### Resource
+- eagereyes — Visualization and Visual Communication: https://eagereyes.org/
+- FlowingData: flowingdata.com
+- Visualizing Data: www.visualisingdata.com
+- information aesthetics - Data Visualization & Information Design: http://infosthetics.com/
+- Information is Beautiful: www.informationisbeautiful.net/
 
 ---
 ## THANK YOU!
