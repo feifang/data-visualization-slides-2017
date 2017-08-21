@@ -18,9 +18,15 @@
 ### 可视化的简史及作用
 
 +++
-#### CASE 1: The French Invasion of Russia in 1812
-<span style="color: gray; font-size: 0.5em;">*The classic graphic by Charles Joseph Minard (1781-1870)*</span>
-![Napoleon's March by Charles Joseph Minard](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+#### CASE 1: The Cholera Epidemic in London, 1854
+<span style="color: gray; font-size: 0.5em;">*Original map by Dr. John Snow's*</span>
+![](http://img.mp.itc.cn/upload/20170718/8c0438041e594cb385ac1d66befe8dc1_th.jpg)
+
++++
+<span style="color: gray; font-size: 0.5em;">*A simplified version by E.W.Gilbert*</span>
+<span style="color: gray; font-size: 0.5em;">（1）用‘x’标识抽水井的位置（2）异常值分布更明显</span>
+![](http://www.doghj.com/upload/editor/1549/image/20160223/1456193863286034542.jpg)
+
 
 +++
 #### CASE 2: The Causes of Mortality in 1858
