@@ -53,8 +53,11 @@
 ### 可视化的主要作用
 <br>
 #### <span style="color: gray;"> Explore 分析数据 </span>
+<span style="font-size: 0.5em;">人脑对图形、图像的解析是并行的，而对文字、词语的读取则是串行的。</span>
+
 <br>
 #### <span style="color: gray;"> Explain 传达数据 </span>
+<span style="font-size: 0.5em;">一图胜千言</span>
 
 ---
 ## WHAT
