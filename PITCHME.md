@@ -51,8 +51,9 @@
 
 +++ 
 ### 可视化的主要作用
-
+<br>
 #### <span style="color: gray;"> Explore 分析数据 </span>
+<br>
 #### <span style="color: gray;"> Explain 传达数据 </span>
 
 ---
