@@ -82,7 +82,7 @@
 --- 
 ### 大数据 x 可视化
 - 学术案例：<span style="color:#ef8526">SwiftTuna</span> - Responsive and Incremental Visual Exploration of Large-scale Multidimensional Data
-- 商业案例：
+- 商业案例：阿里云 <span style="color:#63aeed">DataV</span> 数据可视化
 
 
 +++
@@ -117,10 +117,22 @@
 +++?image=assets/img/SwiftTuna-result.png&size=auto 90%
 
 +++
-### 商业案例：
+### 阿里云 <span style="color:#63aeed">DataV</span> 数据可视化
+![](https://pic3.zhimg.com/v2-bca03f89bb13c89b5afc9673dd08b902_b.jpg)
+
+<span style="color:gray; font-size:0.6em">阿里云出品的拖拽式可视化工具，专精于业务数据与地理信息融合的大数据可视化。</span>
+
++++?image=http://img2.tbcdn.cn/L1/461/1/c84ee736100d1c934dce12d324ba4b59e2542d61.png&size=auto 80%
 
 +++
-### 挑战与未来
+#### 亮点1：实时架构（以飞线的处理流程为例）
+![](http://img2.tbcdn.cn/L1/461/1/d1509c755cfcc4a7708f2e0203452ec52b9d3ab2.png)
+
+
++++
+#### 亮点2：创新的设计与开发模式
+<span style="color:gray; font-size:0.6em">从(设计-> 开发) 到 (设计-> 开发 -> 设计-> 开发)</span>
+![](http://img3.tbcdn.cn/L1/461/1/1b3a758d8bdbfb736f91cf7c85a740357d330619.png)
 
 ---
 ### BONUS！
