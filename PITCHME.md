@@ -67,7 +67,33 @@
 ### 好的可视化需要遵循哪些标准？
 - 有效性
 - 准确性 |
-- 高效性 |
+
++++
+### 好的可视化需要遵循哪些标准？
+- 有效性
+- 准确性 
+
++++?image=assets/img/Graph-distortion.png&size=auto 95%
+
++++?image=assets/img/Graph-distortion2.png&size=auto 95%
+
++++
+### 好的可视化需要遵循哪些标准？
+- 有效性
+- 准确性 
+- 高效性 
+
+![](assets/img/DataInk.png)
+
++++?image=assets/img/DataInk-bad.png&size=auto 95%
+
++++?image=assets/img/DataInk-good.png&size=auto 95%
+
++++
+### 好的可视化需要遵循哪些标准？
+- 有效性
+- 准确性 
+- 高效性 
 - 层次性 |
 - 目的性 |
 
