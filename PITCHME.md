@@ -97,9 +97,24 @@
 
 +++
 #### 亮点1：增量式计算与快速响应的可视化
+![](assets/img/SwiftTuna-Incre-Process.png)
+
++++?image=assets/img/SwiftTuna-vis1-1.png&size=auto 90%
+
++++?image=assets/img/SwiftTuna-vis1-2.png&size=auto 90%
 
 +++
 #### 亮点2：Scalable Visualization
+
++++?image=assets/img/SwiftTuna-vis2-1.png&size=auto 90%
+
++++?image=assets/img/SwiftTuna-vis2-2.png&size=auto 90%
+
++++
+#### Benchmark Result 测试结果
+![](image=assets/img/SwiftTuna-data-size)
+
++++?image=assets/img/SwiftTuna-result.png&size=auto 90%
 
 +++
 ### 商业案例：
